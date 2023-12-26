@@ -44,7 +44,7 @@ body {
   right: 0;
   width: 24px;
   height: 24px;
-  background-image: url("/qa-arrow.svg");
+  background-image: url("qa-arrow.svg");
   transform: rotate(-180deg);
   transition: transform 200ms linear;
 }
